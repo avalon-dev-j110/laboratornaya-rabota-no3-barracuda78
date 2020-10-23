@@ -27,6 +27,7 @@ public class Application {
     public static void main(String[] args) {
         int[] array = new int[20];
 
+        
         //Фибоначчи
         new FibonacciInitializer().initialize(array);
         //проверка
