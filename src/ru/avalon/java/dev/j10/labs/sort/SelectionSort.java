@@ -39,6 +39,7 @@ public class SelectionSort implements Sort {
     }
     
     //код для проверки алгоритма:
+    
 //    public static void main(String[] args) {
 //        int[] array = {20, 15, 8, 16, 4, 3, 0, 1, 3, 2};
 //        new SelectionSort().sort(array);

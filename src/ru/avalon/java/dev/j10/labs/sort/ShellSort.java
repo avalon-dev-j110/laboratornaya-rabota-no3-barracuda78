@@ -39,9 +39,9 @@ public class ShellSort implements Sort {
     }
     
         //код для проверки алгоритма:
-//    public static void main(String[] args) {
-//        int[] array = {20, 15, 8, 16, 4, 3, 0, 1, 3, 2};
-//        new ShellSort().sort(array);
-//        System.out.println(Arrays.toString(array));
-//    }
+    public static void main(String[] args) {
+        int[] array = {20, 15, 8, 16, 4, 3, 0, 1, 3, 2};
+        new ShellSort().sort(array);
+        System.out.println(Arrays.toString(array));
+    }
 }

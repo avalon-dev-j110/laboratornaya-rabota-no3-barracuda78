@@ -33,7 +33,8 @@ public class BubbleSort implements Sort {
         }
         
     }
-//код для проверки работоспособности сортировки:    
+//код для проверки работоспособности сортировки:  
+    
 //    public static void main(String[] args) {
 //        int[] array = {20, 15, 8, 16, 4, 3, 0, 1, 3, 2};
 //        new BubbleSort().sort(array);
